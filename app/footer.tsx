@@ -72,7 +72,7 @@ export function Footer() {
       <div className="flex items-center justify-between">
         <a href="https://github.com/yusupscopes" target="_blank" rel="noopener noreferrer">
           <TextLoop className="text-xs text-zinc-500">
-            <span>© {new Date().getFullYear()} Yusup Maulana.</span>
+            <span>© 2025 Yusup Maulana.</span>
             <span>Built with Next.js & Motion-Primitives.</span>
           </TextLoop>
         </a>
